@@ -4,7 +4,7 @@
 **Machine Learning Engineer | Data Analyst | Software Developer**  
 *Transforming data into insights, code into solutions.*  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/isaac-said-martínez-cerón-945322203/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat)](https://your-portfolio-site.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@domain.com)
 
