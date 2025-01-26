@@ -14,7 +14,7 @@
 
 | Project | Description | Tools | Outcome |
 |---------|-------------|-------|---------|
-| **[Download Sorter App]([link](https://github.com/SulkBash/Download-Sorter-App))** | A smart, customizable file management tool that automatically organizes your downloads folder. | Python, Json, Tkinter | 10+ Customers Satisfied |
+| **[Download Sorter App](https://github.com/SulkBash/Download-Sorter-App)** | A smart, customizable file management tool that automatically organizes your downloads folder. | Python, Json, Tkinter | 10+ Customers Satisfied |
 
 ---
 
