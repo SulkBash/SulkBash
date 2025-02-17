@@ -50,8 +50,8 @@
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SulkBash&show_icons=true&theme=radical&hide=issues)](https://github.com/SulkBash)  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SulkBash&theme=radical)](https://github.com/SulkBash)
+[![SulkBash's Stats](https://github-readme-stats.vercel.app/api?username=SulkBash&show_icons=true&theme=tokyonight&hide=issues)]
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SulkBash&theme=tokyonight)]
 
 ---
 
