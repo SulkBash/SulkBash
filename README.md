@@ -15,7 +15,8 @@
 | Project | Description | Tools | Outcome |
 |---------|-------------|-------|---------|
 | **[Download Sorter App](https://github.com/SulkBash/Download-Sorter-App)** | A smart, customizable file management tool that automatically organizes your downloads folder. | Python, Json | 10+ Customers Satisfied |
-| **[Hanging Chain Simulation](https://github.com/SulkBash/Chain-Simulation)** | A real-time interactive physics simulation of a falling chain with Verlet integration, . | Python | Helps in Research |
+| **[Hanging Chain Simulation](https://github.com/SulkBash/Chain-Simulation)** | A real-time interactive physics simulation of a falling chain with Verlet integration. | Python | Helps in Research |
+| **[2D Collition Simulation](https://github.com/SulkBash/Collision-Simulator)** | A 2D physics simulator that models elastic and inelastic collisions between multiple particles with real-time visualization. | Python | Game Development, Helps in Research |
 
 ---
 
